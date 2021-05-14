@@ -30,3 +30,7 @@ THEN the password is either displayed in an alert or written to the page
 ## Link to deployed application
 
 https://diaseu.github.io/passwordGenerator/
+
+## Screenshot
+
+https://i.imgur.com/7psDFmH.png

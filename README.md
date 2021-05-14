@@ -33,4 +33,4 @@ https://diaseu.github.io/passwordGenerator/
 
 ## Screenshot
 
-https://i.imgur.com/7psDFmH.png
+<img src="https://i.imgur.com/7psDFmH.png" alt="Screenshot" />
